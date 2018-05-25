@@ -2,7 +2,6 @@
 Startup scripts for the Conquest game server - uses the "screen" command to manage a session. This also restarts the Conquest Server process if it crashes.
 
 Official support sites: [Official Github Repo](https://github.com/fstltna/ConquestStartup) - [Official Forum](https://conquest.gameplayer.club/index.php/forum/startup-scripts) - [Official Downloads](https://conquest.gameplayer.club/index.php/downloads/category/8-conquest-sysadmin-tools)
-![Coffee MUD Sample Screen](https://pocketmud.com/coffee_mud.png)
 
 ---
 These start up the Conquest server at boot time with a "screen" process.
